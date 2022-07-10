@@ -1,5 +1,5 @@
 body {
-    background: #616983;
+    background: #535a70;
     color: white;
     font-family: "Open Sans", sans-serif;
     text-align: center;
@@ -34,7 +34,7 @@ body {
 
 .card .type {
     letter-spacing: 0.1rem;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .card .price {
