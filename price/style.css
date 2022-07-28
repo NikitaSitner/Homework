@@ -17,12 +17,12 @@ body {
 }
 
 .card .details li {
-    margin: 15px 0;
+    margin: 10px 0;
 }
 
 .card {
-    width: 220px;
-    height: 370px;
+    width: 250px;
+    height: 400px;
     border-radius: 1.5rem;
     padding: 30px;
     box-shadow: 2px 2px 46px -4px rgba(0, 0, 0, 0.6);
@@ -34,7 +34,7 @@ body {
 
 .card .type {
     letter-spacing: 0.1rem;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .card .price {
@@ -52,11 +52,11 @@ body {
 }
 
 .card:nth-child(1) {
-    background: linear-gradient(to left, #81ea67, #9186e7, #ab58b4);
+    background: linear-gradient(to left, #eab667, #9186e7, #ab58b4);
 }
 
 .card:nth-child(2) {
-    background: linear-gradient(to left, #c3fc3f, #f946ff, #fff42b);
+    background: linear-gradient(to left, #a73ffc, #f946ff, #fff42b);
     width: 260px;
     height: 410px;
     top: 40px;
