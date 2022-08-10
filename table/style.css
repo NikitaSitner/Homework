@@ -3,13 +3,13 @@ body {
 }
 
 .container {
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 .block {
-    height: 575px;
-    width: 430px;
-    background: linear-gradient(rgba(35, 85, 67, 0.75), rgba(64, 129, 12, 0.95));
+    height: 600px;
+    width: 450px;
+    background: linear-gradient(rgba(35, 85, 67, 0.75), rgba(72, 12, 129, 0.95));
     border-radius: 5px;
     box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.5);
     margin-left: auto;
@@ -17,7 +17,7 @@ body {
 }
 
 .nav {
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
 .links li {
@@ -35,7 +35,7 @@ body {
 .links .active a {
     padding-bottom: 5px;
     color: #ffffff;
-    border-bottom: solid 2px #1059ff;
+    border-bottom: solid 2px #ffd310;
 }
 
 form {
