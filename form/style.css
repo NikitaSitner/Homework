@@ -1,6 +1,6 @@
 .first-div {
-    width: 300px;
-    height: 200px;
+    width: 500px;
+    height: 250px;
     border: solid 1px rgb(118, 29, 140);
     border-radius: 5px;
     background-color: white;
@@ -23,7 +23,7 @@ h1 {
     padding: 0.5em 3.5em 0.5em 0.5em;
     background-color: rgb(223, 204, 255);
     border-radius: 5px;
-    border: double .5em rgba(0, 102, 255, .1);
+    border: double .5em rgba(0, 102, 255, 0.299);
     padding: 0.1em;
     background-clip: content-box;
 }
