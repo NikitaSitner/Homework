@@ -1,8 +1,8 @@
 .first-div {
-    width: 500px;
+    width: 400px;
     height: 250px;
     border: solid 1px rgb(118, 29, 140);
-    border-radius: 5px;
+    border-radius: 4px;
     background-color: white;
     padding: 1em;
 }
@@ -20,7 +20,7 @@ h1 {
 .last-div {
     height: 70%;
     overflow: auto;
-    padding: 0.5em 3.5em 0.5em 0.5em;
+    padding: 0.7em 3.5em 0.5em 0.5em;
     background-color: rgb(223, 204, 255);
     border-radius: 5px;
     border: double .5em rgba(0, 102, 255, 0.299);
