@@ -35,7 +35,7 @@ a:active {
 .links {
     display: inline-block;
     background-color: white;
-    height: 155px;
+    height: 170px;
     width: 170px;
     border: solid 2px;
 }
@@ -65,7 +65,7 @@ a:active {
 
 .backgorund-art2 {
     background-color: grey;
-    padding: 3px;
+    padding: 5px;
     margin-top: 5px;
     border-radius: 5px;
     display: inline-block;
